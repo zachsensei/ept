@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"box",
+				"box-1"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bod",
+				"border\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"magin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"spaci",
+				"letter-spacing\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Maaku/Desktop/EPT Offline Reviewer/game.html",
+		"/C/Users/Maaku/Desktop/EPT Offline Reviewer/game.css",
+		"/C/Users/Maaku/Desktop/Online Portfolio/portfolio.html",
+		"/C/Users/Maaku/Desktop/Online Portfolio/cv1.html",
+		"/C/Users/Maaku/Desktop/Online Portfolio/portfolio.css",
+		"/C/Users/Maaku/Desktop/Online Portfolio/index.html",
+		"/C/Users/Maaku/Desktop/Online Portfolio/style.css",
+		"/C/Users/Maaku/Desktop/Online Portfolio/portfolio.js",
+		"/C/Users/Maaku/Desktop/Design1/style.css",
+		"/C/Users/Maaku/Desktop/Design1/index.html",
+		"/C/Users/Maaku/Desktop/index.html",
+		"/C/Users/Maaku/Desktop/Online Portfolio/cv.css",
+		"/C/Users/Maaku/Desktop/Online Portfolio/cv.html",
+		"/C/Users/Maaku/Desktop/My Folder/Pirple/Recreating Wikipedia/wikipedia.html",
+		"/C/Users/Maaku/Desktop/style.css",
+		"/C/Users/Maaku/Desktop/script.js",
+		"/C/Users/Maaku/Desktop/Quiz App/app.css",
+		"/C/Users/Maaku/Desktop/Quiz App/index.html",
+		"/C/Users/Maaku/Desktop/EPT Offline Reviewer/end.html",
+		"/C/Users/Maaku/Desktop/For My Skill Demonstration/index.html",
+		"/C/Users/Maaku/Desktop/css.css",
+		"/C/Users/Maaku/Desktop/For My Skill Demonstration/style.css",
+		"/C/Users/Maaku/Desktop/Website Sample/index.html",
+		"/C/Users/Maaku/Desktop/Lesson Plan using HTML and CSS/index.html",
+		"/C/Users/Maaku/Desktop/Accordion/accordion.html",
+		"/C/Users/Maaku/Desktop/New folder/style.css",
+		"/C/Users/Maaku/Desktop/Website.html",
+		"/C/Users/Maaku/Desktop/EPT Offline Reviewer/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "end.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
